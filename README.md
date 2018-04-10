@@ -1,2 +1,10 @@
 # SalesforceService
-A simple PHP SalesforceService for REST API communication - including authentication + keypair store etc.
+A simple PHP SalesforceService exmaple for REST API communication
+
+ - authentication + keypair store + reauthentication
+ - Sobject Communication
+ - Apex Create Opportunity Rest Call
+ 
+ 
+
+
